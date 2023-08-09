@@ -1,2 +1,2 @@
 # My-Test-Remote-Repo
-notebook exercise
+i love doing these notebook exercises
